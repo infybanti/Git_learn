@@ -1,4 +1,4 @@
 # Git_learn
-how to work in github
+how to work
 <br> 
 Author - Sachin Kumar
